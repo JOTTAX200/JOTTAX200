@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá! Eu sou um Desenvolvedor em evolução 👋
+# 👨🏾‍💻João Gabriel 👋
 
 ### 💻 Construindo meu futuro através da tecnologia
 
