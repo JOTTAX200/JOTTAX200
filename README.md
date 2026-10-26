@@ -35,7 +35,7 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JOTTAX200)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JOTTAX200&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
