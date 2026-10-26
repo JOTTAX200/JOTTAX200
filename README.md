@@ -27,8 +27,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,html,css,azure,github,vscode&theme=dark" alt="Python, Java, HTML, CSS, Azure, GitHub e VS Code"/>
 
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
-
 </div>
 
 ---
