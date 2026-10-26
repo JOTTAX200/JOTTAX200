@@ -5,9 +5,7 @@
 
 ### 💻 Construindo meu futuro através da tecnologia
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Estudante+de+programa%C3%A7%C3%A3o;Explorando+o+mundo+da+tecnologia;Transformando+ideias+em+c%C3%B3digo" alt="Texto animado">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Estudante+de+programa%C3%A7%C3%A3o;Explorando+o+mundo+da+tecnologia;Transformando+ideias+em+c%C3%B3digo" alt="Texto animado"/>
 
 </div>
 
@@ -27,7 +25,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,azure,github,vscode&theme=dark" alt="Python, Java, HTML, CSS, Azure, GitHub e VS Code"/>
+
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
 
 </div>
 
@@ -49,13 +49,14 @@
 
 - 📖 Aprofundando meus conhecimentos em programação.
 - 💡 Desenvolvendo projetos para colocar o aprendizado em prática.
-- 🔍 Explorando novas possibilidades no universo da tecnologia.
+- ☁️ Estudando conceitos e serviços de computação em nuvem com Microsoft Azure.
+- 🗄️ Aprimorando meus conhecimentos em bancos de dados e SQL Server.
 
 ---
 
-<div align="center">
+## 🤝 Vamos nos conectar?
 
-### 🤝 Vamos nos conectar?
+<div align="center">
 
 <a href="https://github.com/SEU_USUARIO">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -63,6 +64,6 @@
 
 <br><br>
 
-*"Grandes resultados são construídos com pequenos avanços todos os dias."*
+<i>"Grandes resultados são construídos com pequenos avanços todos os dias."</i>
 
 </div>
